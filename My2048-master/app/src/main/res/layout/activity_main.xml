@@ -7,4 +7,8 @@
     android:layout_height="match_parent"
     tools:context="pu.example.toreal.my2048.MainActivity">
 
+
+
+
+
 </android.support.constraint.ConstraintLayout>
